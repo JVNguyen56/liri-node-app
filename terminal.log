@@ -1,0 +1,49 @@
+=============== LOG ENTRY BEGIN ===============
+Fri Aug 18 2017 22:42:07 GMT-0700 (PDT)
+ 
+TERMINAL COMMANDS:
+$: /usr/local/Cellar/node/7.8.0/bin/node,/Users/jimmynguyen/Desktop/liri-node-app/liri.js,mytweets
+ 
+DATA OUTPUT:
+1. Tweet: Test https://t.co/w4CzUpELAv
+Created at: Thu Oct 27 02:27:50 +0000 2016 
+2. Tweet: 31 Crockpot Freezer Meals for Back-to-School https://t.co/cGBa3W1NIO
+Created at: Wed Apr 13 04:46:32 +0000 2016 
+3. Tweet: Tweeting for HW10
+Created at: Tue Apr 12 20:08:34 +0000 2016 
+4. Tweet: Tweeting for HW9
+Created at: Tue Apr 12 20:08:29 +0000 2016 
+5. Tweet: Tweeting for HW8
+Created at: Tue Apr 12 20:08:25 +0000 2016 
+6. Tweet: Tweeting for HW7
+Created at: Tue Apr 12 20:08:21 +0000 2016 
+7. Tweet: Tweeting for HW6
+Created at: Tue Apr 12 20:08:17 +0000 2016 
+8. Tweet: Tweeting for HW5
+Created at: Tue Apr 12 20:08:13 +0000 2016 
+9. Tweet: Tweeting for HW4
+Created at: Tue Apr 12 20:08:08 +0000 2016 
+10. Tweet: Tweeting for HW3
+Created at: Tue Apr 12 20:08:05 +0000 2016 
+11. Tweet: Tweeting for HW2
+Created at: Tue Apr 12 20:08:01 +0000 2016 
+12. Tweet: Tweeting for HW1
+Created at: Tue Apr 12 20:07:55 +0000 2016 
+13. Tweet: Tweeting for HW
+Created at: Tue Apr 12 20:07:27 +0000 2016 
+14. Tweet: Tweet Tweet Tweet Tweet Tweet 3
+Created at: Tue Apr 12 20:06:58 +0000 2016 
+15. Tweet: Tweet Tweet Tweet Tweet Tweet 2
+Created at: Tue Apr 12 19:55:17 +0000 2016 
+16. Tweet: Tweet Tweet Tweet Tweet Tweet 1
+Created at: Tue Apr 12 19:55:11 +0000 2016 
+17. Tweet: Tweet Tweet Tweet Tweet Tweet
+Created at: Tue Apr 12 19:55:04 +0000 2016 
+18. Tweet: Blah to the 3rd power
+Created at: Tue Apr 12 01:41:46 +0000 2016 
+19. Tweet: Doing homework. Still.
+Created at: Tue Apr 12 01:41:11 +0000 2016 
+20. Tweet: Doing homework now =)
+Created at: Mon Apr 11 17:18:52 +0000 2016 
+=============== LOG ENTRY END ===============
+ 

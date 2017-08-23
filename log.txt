@@ -1,0 +1,620 @@
+Title: Mr. NobodyRelease Year: 2009IMdB Rating: 7.9Country: Belgium, Germany, Canada, France, USA, UKLanguage: English, MohawkPlot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan PhamRotten Tomatoes Rating: undefinedRotten Tomatoes URL: undefined-----------------------If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/It's on Netflix!@JVNguyen56: Spread the love!! Created At: Thu Aug 17 23:12:22-----------------------@JVNguyen56: Hello World! Created At: Thu Aug 17 23:10:42-----------------------
+
+[{"created at: ":"Fri Aug 18 03:26:16 +0000 2017","Tweets: ":"RT @whispersystems: We're hiring a senior server developer for Signal, know anyone who might be interested? https://t.co/S7gXzMXcgK"},{"created at: ":"Mon Aug 14 04:04:46 +0000 2017","Tweets: ":"RT @BarackObama: \"No one is born hating another person because of the color of his skin or his background or his religion...\" https://t.co/…"},{"created at: ":"Sat Aug 12 17:28:25 +0000 2017","Tweets: ":"Thank you. So are you! 😊 https://t.co/801xIJP6te"},{"created at: ":"Sat Aug 12 17:27:06 +0000 2017","Tweets: ":"RT @yayfrens: You are worthy of love."},{"created at: ":"Fri Aug 11 23:29:14 +0000 2017","Tweets: ":"I'm super excited to be participating in a Make-a-Thon for Chattanooga nonprofits. Come join me! https://t.co/e1f2OHq7zX"},{"created at: ":"Wed Aug 09 22:22:03 +0000 2017","Tweets: ":"@Davey_Crocko @fivetanley Do you really have to attack women to make yourself feel better?"},{"created at: ":"Mon Aug 07 16:44:04 +0000 2017","Tweets: ":"Just applied for @MakeaMarkRB a local designathon benefiting non-profits!"},{"created at: ":"Thu Aug 03 18:14:04 +0000 2017","Tweets: ":"RT @MabbsSec: I can confirm @MalwareTechBlog was detained yesterday and FBI/US Marshalls won't tell me where he is. https://t.co/lV5SxZjsRi"},{"created at: ":"Thu Aug 03 18:07:57 +0000 2017","Tweets: ":"Signal boost. BSides coming to CHA next year! https://t.co/LWs7fnYJUh"},{"created at: ":"Tue Aug 01 17:33:43 +0000 2017","Tweets: ":"RT @nodejs: 📝Checklist: Node.js production best practices https://t.co/txXCXen4gt"}]
+
+[{"Title: ":"Mr. Nobody","Year: ":"2009","Rated: ":"R","IMDB Rating: ":"7.9","Country: ":"Belgium, Germany, Canada, France, USA, UK","Language: ":"English, Mohawk","Plot: ":"A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.","Actors: ":"Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham"}]
+
+[{"Title: ":"The Smurfs","Year: ":"2011","Rated: ":"PG","IMDB Rating: ":"5.5","Country: ":"USA","Language: ":"English","Plot: ":"When the evil wizard Gargamel chases the tiny blue Smurfs out of their village, they tumble from their magical world into New York City.","Actors: ":"Hank Azaria, Neil Patrick Harris, Jayma Mays, Sofía Vergara"}]
+
+"spotify-this-song,\"I Want it That Way\""@JVNguyen56: Spread the love!! Created At: Thu Aug 17 23:12:22-----------------------@JVNguyen56: Hello World! Created At: Thu Aug 17 23:10:42-----------------------Title: Mr. NobodyRelease Year: 2009IMdB Rating: 7.9Country: Belgium, Germany, Canada, France, USA, UKLanguage: English, MohawkPlot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan PhamRotten Tomatoes Rating: undefinedRotten Tomatoes URL: undefined-----------------------If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/It's on Netflix!User Command: /usr/local/Cellar/node/7.8.0/bin/node,/Users/jimmynguyen/Desktop/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Wed May 24 04:30:50 +0000 2017
+Tweet content: Exciting and scary at the same time... https://t.co/G0xP8qze4U
+------------------------
+Created on: Tue May 23 03:06:59 +0000 2017
+Tweet content: Excited to be speaking at @AllThingsOpen 2017! @GinnyGhezzo thank you for your support! All my fans from 2016, time to get tickets ;-);-)!!!
+------------------------
+Created on: Wed Mar 15 03:48:16 +0000 2017
+Tweet content: RT @CNN: Each slice of this bread reveals colorful illustrations from animals to a child's doodles. Meet the mom behind them https://t.co/P…
+------------------------
+Created on: Thu Feb 23 09:20:40 +0000 2017
+Tweet content: @kontrol_theory I disagree.The article implies that programming should not be treated as a new fad or the flavor of the season.That's all.
+------------------------
+Created on: Thu Feb 16 08:24:13 +0000 2017
+Tweet content: @kontrol_theory The point of the article is to point out that there may be other more suitable career paths that a person may enjoy.
+------------------------
+Created on: Thu Feb 16 08:22:36 +0000 2017
+Tweet content: @kontrol_theory You are correct.But there are many challenges to that career. Unless you're passionate, you may just end up too frustrated.
+------------------------
+Created on: Sun Feb 12 17:25:27 +0000 2017
+Tweet content: The Joel Test: 12 Steps to Better Code
+
+https://t.co/S3o1DeqysZ
+------------------------
+Created on: Sun Feb 12 17:23:30 +0000 2017
+Tweet content: “Don’t Pursue Programming if You Aren’t Passionate About It” by @ebbv https://t.co/UiOTLVoeN4
+------------------------
+Created on: Thu Nov 24 12:20:47 +0000 2016
+Tweet content: RT @codeorg: Congrats to Margaret Hamilton, 2016 Presidential Medal of Freedom recipient. She wrote the code that helped the US reach the m…
+------------------------
+Created on: Thu Nov 24 06:29:53 +0000 2016
+Tweet content: RT @StevenMJohnston: #Blockchain basics and opportunities w/ @_angrbrd #DZone #BigData https://t.co/Vdwx520eAz https://t.co/zups5s5mCQ
+------------------------
+Created on: Sun Nov 20 06:35:32 +0000 2016
+Tweet content: RT @LogicalDan: Microsoft fortifies commitment to #OpenSource, and becomes #LinuxFoundation Platinum member!  https://t.co/whh1wBfGnG
+------------------------
+Created on: Wed Nov 16 16:15:54 +0000 2016
+Tweet content: DZone posted the interview they had with me!! Blockchain Basics and Opportunities With Anna Derbakova https://t.co/E2VCwtHjIe via @DZone
+------------------------
+Created on: Tue Nov 15 23:06:32 +0000 2016
+Tweet content: RT @CNN: Nike has announced its self-lacing shoe will hit stores in New York City - and they're all yours for just $720 https://t.co/KUKN8x…
+------------------------
+Created on: Sun Nov 13 16:57:45 +0000 2016
+Tweet content: RT @TechCrunch: Amazon sells out of the NES Classic Edition in (null) seconds https://t.co/xTdXV893Ar
+------------------------
+Created on: Tue Nov 08 17:01:49 +0000 2016
+Tweet content: RT @cocoacinnamon: Come in with your I voted sticker tomorrow and get extra espresso free in any espresso or chocolate based drink! Tell yo…
+------------------------
+Created on: Sat Oct 29 05:23:09 +0000 2016
+Tweet content: "Speaking On developerWorks TV At All Things Open 2016" https://t.co/3CMrlh2CoE on @LinkedIn
+------------------------
+Created on: Sat Oct 29 05:06:28 +0000 2016
+Tweet content: "Hyperledger At All Things Open 2016" https://t.co/pbKoPartH7 on @LinkedIn
+------------------------
+Created on: Sat Oct 29 04:37:19 +0000 2016
+Tweet content: Check me out on developerWorks TV!!! https://t.co/L4Oy1JERBZ
+------------------------
+Created on: Sat Oct 29 04:32:02 +0000 2016
+Tweet content: Updated Hyperledger Fabric tutorial for Mac and added All Things Open 2016 presentation! Please get them here: https://t.co/Sk2yYVcSgS!
+------------------------
+Created on: Fri Oct 28 22:48:57 +0000 2016
+Tweet content: RT @amershow: @StacieWaleyko @GinnyGhezzo See @_angrbrd 's presentation at https://t.co/tPpQHQX3fx
+------------------------
+
+User Command: node liri.js spotify-this-song <song_name>keep me 
+
+User Command: node liri.js spotify-this-song keep me 
+
+User Command: node liri.js movie-this 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Mr. Nobody
+Year Released: 26 Sep 2013
+IMBD Rating: 7.9
+Country Produced: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "I Want it That Way"
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "I Want it That Way"
+
+User Command: /usr/local/Cellar/node/7.8.0/bin/node,/Users/jimmynguyen/Desktop/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js movie-this 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Mr. Nobody
+Year Released: 26 Sep 2013
+IMBD Rating: 7.9
+Country Produced: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+Title: Mr. NobodyRelease Year: 2009IMdB Rating: 7.9Country: Belgium, Germany, Canada, France, USA, UKLanguage: English, MohawkPlot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan PhamRotten Tomatoes Rating: undefinedRotten Tomatoes URL: undefined-----------------------If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/It's on Netflix!Title: Mr. NobodyRelease Year: 2009IMdB Rating: 7.9Country: Belgium, Germany, Canada, France, USA, UKLanguage: English, MohawkPlot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan PhamRotten Tomatoes Rating: undefinedRotten Tomatoes URL: undefined-----------------------If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/It's on Netflix!@JVNguyen56: Spread the love!! Created At: Thu Aug 17 23:12:22-----------------------@JVNguyen56: Hello World! Created At: Thu Aug 17 23:10:42-----------------------User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Tue Aug 22 01:44:36 +0000 2017
+Tweet content: Khalid-Saved is playing right now.. One of my top 3 tracks of his
+------------------------
+Created on: Tue Aug 22 01:43:22 +0000 2017
+Tweet content: How about last nights GOT episode. OMG and its not even the finale yet. Much more in store!
+------------------------
+Created on: Tue Aug 22 01:42:45 +0000 2017
+Tweet content: Kaskade is the Man! Always and is and Always will be my favorite EDM DJ!! #respect
+------------------------
+Created on: Tue Aug 22 01:40:30 +0000 2017
+Tweet content: What a great weekend! A Birthday, Wedding and another birthday all in a day and a half #pooped
+------------------------
+Created on: Tue Aug 22 01:39:44 +0000 2017
+Tweet content: Feeling hungry right now, What to eat??!?
+------------------------
+Created on: Tue Aug 22 01:39:10 +0000 2017
+Tweet content: Listening to Khalid right now. Great Artist , chill music!
+------------------------
+Created on: Tue Aug 22 01:38:42 +0000 2017
+Tweet content: Solar Eclipse photo 2017 https://t.co/Mp3xmkS1Ul
+------------------------
+Created on: Tue Aug 22 01:36:56 +0000 2017
+Tweet content: Solar eclipse was real today! Wowsers!
+------------------------
+Created on: Thu Aug 17 23:12:22 +0000 2017
+Tweet content: Spread the love!!
+------------------------
+Created on: Thu Aug 17 23:10:42 +0000 2017
+Tweet content: Hello World!
+------------------------
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Tue Aug 22 01:44:36 +0000 2017
+Tweet content: Khalid-Saved is playing right now.. One of my top 3 tracks of his
+------------------------
+Created on: Tue Aug 22 01:43:22 +0000 2017
+Tweet content: How about last nights GOT episode. OMG and its not even the finale yet. Much more in store!
+------------------------
+Created on: Tue Aug 22 01:42:45 +0000 2017
+Tweet content: Kaskade is the Man! Always and is and Always will be my favorite EDM DJ!! #respect
+------------------------
+Created on: Tue Aug 22 01:40:30 +0000 2017
+Tweet content: What a great weekend! A Birthday, Wedding and another birthday all in a day and a half #pooped
+------------------------
+Created on: Tue Aug 22 01:39:44 +0000 2017
+Tweet content: Feeling hungry right now, What to eat??!?
+------------------------
+Created on: Tue Aug 22 01:39:10 +0000 2017
+Tweet content: Listening to Khalid right now. Great Artist , chill music!
+------------------------
+Created on: Tue Aug 22 01:38:42 +0000 2017
+Tweet content: Solar Eclipse photo 2017 https://t.co/Mp3xmkS1Ul
+------------------------
+Created on: Tue Aug 22 01:36:56 +0000 2017
+Tweet content: Solar eclipse was real today! Wowsers!
+------------------------
+Created on: Thu Aug 17 23:12:22 +0000 2017
+Tweet content: Spread the love!!
+------------------------
+Created on: Thu Aug 17 23:10:42 +0000 2017
+Tweet content: Hello World!
+------------------------
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Tue Aug 22 01:44:36 +0000 2017
+Tweet content: Khalid-Saved is playing right now.. One of my top 3 tracks of his
+------------------------
+Created on: Tue Aug 22 01:43:22 +0000 2017
+Tweet content: How about last nights GOT episode. OMG and its not even the finale yet. Much more in store!
+------------------------
+Created on: Tue Aug 22 01:42:45 +0000 2017
+Tweet content: Kaskade is the Man! Always and is and Always will be my favorite EDM DJ!! #respect
+------------------------
+Created on: Tue Aug 22 01:40:30 +0000 2017
+Tweet content: What a great weekend! A Birthday, Wedding and another birthday all in a day and a half #pooped
+------------------------
+Created on: Tue Aug 22 01:39:44 +0000 2017
+Tweet content: Feeling hungry right now, What to eat??!?
+------------------------
+Created on: Tue Aug 22 01:39:10 +0000 2017
+Tweet content: Listening to Khalid right now. Great Artist , chill music!
+------------------------
+Created on: Tue Aug 22 01:38:42 +0000 2017
+Tweet content: Solar Eclipse photo 2017 https://t.co/Mp3xmkS1Ul
+------------------------
+Created on: Tue Aug 22 01:36:56 +0000 2017
+Tweet content: Solar eclipse was real today! Wowsers!
+------------------------
+Created on: Thu Aug 17 23:12:22 +0000 2017
+Tweet content: Spread the love!!
+------------------------
+Created on: Thu Aug 17 23:10:42 +0000 2017
+Tweet content: Hello World!
+------------------------
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Tue Aug 22 01:44:36 +0000 2017
+Tweet content: Khalid-Saved is playing right now.. One of my top 3 tracks of his
+------------------------
+Created on: Tue Aug 22 01:43:22 +0000 2017
+Tweet content: How about last nights GOT episode. OMG and its not even the finale yet. Much more in store!
+------------------------
+Created on: Tue Aug 22 01:42:45 +0000 2017
+Tweet content: Kaskade is the Man! Always and is and Always will be my favorite EDM DJ!! #respect
+------------------------
+Created on: Tue Aug 22 01:40:30 +0000 2017
+Tweet content: What a great weekend! A Birthday, Wedding and another birthday all in a day and a half #pooped
+------------------------
+Created on: Tue Aug 22 01:39:44 +0000 2017
+Tweet content: Feeling hungry right now, What to eat??!?
+------------------------
+Created on: Tue Aug 22 01:39:10 +0000 2017
+Tweet content: Listening to Khalid right now. Great Artist , chill music!
+------------------------
+Created on: Tue Aug 22 01:38:42 +0000 2017
+Tweet content: Solar Eclipse photo 2017 https://t.co/Mp3xmkS1Ul
+------------------------
+Created on: Tue Aug 22 01:36:56 +0000 2017
+Tweet content: Solar eclipse was real today! Wowsers!
+------------------------
+Created on: Thu Aug 17 23:12:22 +0000 2017
+Tweet content: Spread the love!!
+------------------------
+Created on: Thu Aug 17 23:10:42 +0000 2017
+Tweet content: Hello World!
+------------------------
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Tue Aug 22 02:41:55 +0000 2017
+Tweet content: Cant wait for the Mayweather -MacGregor Fight this weekend. Lets see if it will be a bust or a show
+------------------------
+Created on: Tue Aug 22 02:41:27 +0000 2017
+Tweet content: Feeling good !
+------------------------
+Created on: Tue Aug 22 02:40:54 +0000 2017
+Tweet content: Missed my episode of Ballers yesterday. Time to catch up tonight. NO spoilers please
+------------------------
+Created on: Tue Aug 22 02:40:22 +0000 2017
+Tweet content: Labor Day weekend is coming up. Any plans?!
+------------------------
+Created on: Tue Aug 22 02:40:08 +0000 2017
+Tweet content: Whats going on with everyone out there?
+------------------------
+Created on: Tue Aug 22 02:39:52 +0000 2017
+Tweet content: Weather is nice today. Breezy!
+------------------------
+Created on: Tue Aug 22 01:44:36 +0000 2017
+Tweet content: Khalid-Saved is playing right now.. One of my top 3 tracks of his
+------------------------
+Created on: Tue Aug 22 01:43:22 +0000 2017
+Tweet content: How about last nights GOT episode. OMG and its not even the finale yet. Much more in store!
+------------------------
+Created on: Tue Aug 22 01:42:45 +0000 2017
+Tweet content: Kaskade is the Man! Always and is and Always will be my favorite EDM DJ!! #respect
+------------------------
+Created on: Tue Aug 22 01:40:30 +0000 2017
+Tweet content: What a great weekend! A Birthday, Wedding and another birthday all in a day and a half #pooped
+------------------------
+Created on: Tue Aug 22 01:39:44 +0000 2017
+Tweet content: Feeling hungry right now, What to eat??!?
+------------------------
+Created on: Tue Aug 22 01:39:10 +0000 2017
+Tweet content: Listening to Khalid right now. Great Artist , chill music!
+------------------------
+Created on: Tue Aug 22 01:38:42 +0000 2017
+Tweet content: Solar Eclipse photo 2017 https://t.co/Mp3xmkS1Ul
+------------------------
+Created on: Tue Aug 22 01:36:56 +0000 2017
+Tweet content: Solar eclipse was real today! Wowsers!
+------------------------
+Created on: Thu Aug 17 23:12:22 +0000 2017
+Tweet content: Spread the love!!
+------------------------
+Created on: Thu Aug 17 23:10:42 +0000 2017
+Tweet content: Hello World!
+------------------------
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Tue Aug 22 02:44:06 +0000 2017
+Tweet content: Alright thats it for tonight. see you all next time!
+------------------------
+Created on: Tue Aug 22 02:43:49 +0000 2017
+Tweet content: My kids are going nuts inside right now....hahaha
+------------------------
+Created on: Tue Aug 22 02:43:37 +0000 2017
+Tweet content: Still thinking of what to eat. Its about that time
+------------------------
+Created on: Tue Aug 22 02:43:18 +0000 2017
+Tweet content: What should I listen to next?
+------------------------
+Created on: Tue Aug 22 02:41:55 +0000 2017
+Tweet content: Cant wait for the Mayweather -MacGregor Fight this weekend. Lets see if it will be a bust or a show
+------------------------
+Created on: Tue Aug 22 02:41:27 +0000 2017
+Tweet content: Feeling good !
+------------------------
+Created on: Tue Aug 22 02:40:54 +0000 2017
+Tweet content: Missed my episode of Ballers yesterday. Time to catch up tonight. NO spoilers please
+------------------------
+Created on: Tue Aug 22 02:40:22 +0000 2017
+Tweet content: Labor Day weekend is coming up. Any plans?!
+------------------------
+Created on: Tue Aug 22 02:40:08 +0000 2017
+Tweet content: Whats going on with everyone out there?
+------------------------
+Created on: Tue Aug 22 02:39:52 +0000 2017
+Tweet content: Weather is nice today. Breezy!
+------------------------
+Created on: Tue Aug 22 01:44:36 +0000 2017
+Tweet content: Khalid-Saved is playing right now.. One of my top 3 tracks of his
+------------------------
+Created on: Tue Aug 22 01:43:22 +0000 2017
+Tweet content: How about last nights GOT episode. OMG and its not even the finale yet. Much more in store!
+------------------------
+Created on: Tue Aug 22 01:42:45 +0000 2017
+Tweet content: Kaskade is the Man! Always and is and Always will be my favorite EDM DJ!! #respect
+------------------------
+Created on: Tue Aug 22 01:40:30 +0000 2017
+Tweet content: What a great weekend! A Birthday, Wedding and another birthday all in a day and a half #pooped
+------------------------
+Created on: Tue Aug 22 01:39:44 +0000 2017
+Tweet content: Feeling hungry right now, What to eat??!?
+------------------------
+Created on: Tue Aug 22 01:39:10 +0000 2017
+Tweet content: Listening to Khalid right now. Great Artist , chill music!
+------------------------
+Created on: Tue Aug 22 01:38:42 +0000 2017
+Tweet content: Solar Eclipse photo 2017 https://t.co/Mp3xmkS1Ul
+------------------------
+Created on: Tue Aug 22 01:36:56 +0000 2017
+Tweet content: Solar eclipse was real today! Wowsers!
+------------------------
+Created on: Thu Aug 17 23:12:22 +0000 2017
+Tweet content: Spread the love!!
+------------------------
+Created on: Thu Aug 17 23:10:42 +0000 2017
+Tweet content: Hello World!
+------------------------
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Tue Aug 22 02:44:06 +0000 2017
+Tweet content: Alright thats it for tonight. see you all next time!
+------------------------
+Created on: Tue Aug 22 02:43:49 +0000 2017
+Tweet content: My kids are going nuts inside right now....hahaha
+------------------------
+Created on: Tue Aug 22 02:43:37 +0000 2017
+Tweet content: Still thinking of what to eat. Its about that time
+------------------------
+Created on: Tue Aug 22 02:43:18 +0000 2017
+Tweet content: What should I listen to next?
+------------------------
+Created on: Tue Aug 22 02:41:55 +0000 2017
+Tweet content: Cant wait for the Mayweather -MacGregor Fight this weekend. Lets see if it will be a bust or a show
+------------------------
+Created on: Tue Aug 22 02:41:27 +0000 2017
+Tweet content: Feeling good !
+------------------------
+Created on: Tue Aug 22 02:40:54 +0000 2017
+Tweet content: Missed my episode of Ballers yesterday. Time to catch up tonight. NO spoilers please
+------------------------
+Created on: Tue Aug 22 02:40:22 +0000 2017
+Tweet content: Labor Day weekend is coming up. Any plans?!
+------------------------
+Created on: Tue Aug 22 02:40:08 +0000 2017
+Tweet content: Whats going on with everyone out there?
+------------------------
+Created on: Tue Aug 22 02:39:52 +0000 2017
+Tweet content: Weather is nice today. Breezy!
+------------------------
+Created on: Tue Aug 22 01:44:36 +0000 2017
+Tweet content: Khalid-Saved is playing right now.. One of my top 3 tracks of his
+------------------------
+Created on: Tue Aug 22 01:43:22 +0000 2017
+Tweet content: How about last nights GOT episode. OMG and its not even the finale yet. Much more in store!
+------------------------
+Created on: Tue Aug 22 01:42:45 +0000 2017
+Tweet content: Kaskade is the Man! Always and is and Always will be my favorite EDM DJ!! #respect
+------------------------
+Created on: Tue Aug 22 01:40:30 +0000 2017
+Tweet content: What a great weekend! A Birthday, Wedding and another birthday all in a day and a half #pooped
+------------------------
+Created on: Tue Aug 22 01:39:44 +0000 2017
+Tweet content: Feeling hungry right now, What to eat??!?
+------------------------
+Created on: Tue Aug 22 01:39:10 +0000 2017
+Tweet content: Listening to Khalid right now. Great Artist , chill music!
+------------------------
+Created on: Tue Aug 22 01:38:42 +0000 2017
+Tweet content: Solar Eclipse photo 2017 https://t.co/Mp3xmkS1Ul
+------------------------
+Created on: Tue Aug 22 01:36:56 +0000 2017
+Tweet content: Solar eclipse was real today! Wowsers!
+------------------------
+Created on: Thu Aug 17 23:12:22 +0000 2017
+Tweet content: Spread the love!!
+------------------------
+Created on: Thu Aug 17 23:10:42 +0000 2017
+Tweet content: Hello World!
+------------------------
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Tue Aug 22 02:44:06 +0000 2017
+Tweet content: Alright thats it for tonight. see you all next time!
+------------------------
+Created on: Tue Aug 22 02:43:49 +0000 2017
+Tweet content: My kids are going nuts inside right now....hahaha
+------------------------
+Created on: Tue Aug 22 02:43:37 +0000 2017
+Tweet content: Still thinking of what to eat. Its about that time
+------------------------
+Created on: Tue Aug 22 02:43:18 +0000 2017
+Tweet content: What should I listen to next?
+------------------------
+Created on: Tue Aug 22 02:41:55 +0000 2017
+Tweet content: Cant wait for the Mayweather -MacGregor Fight this weekend. Lets see if it will be a bust or a show
+------------------------
+Created on: Tue Aug 22 02:41:27 +0000 2017
+Tweet content: Feeling good !
+------------------------
+Created on: Tue Aug 22 02:40:54 +0000 2017
+Tweet content: Missed my episode of Ballers yesterday. Time to catch up tonight. NO spoilers please
+------------------------
+Created on: Tue Aug 22 02:40:22 +0000 2017
+Tweet content: Labor Day weekend is coming up. Any plans?!
+------------------------
+Created on: Tue Aug 22 02:40:08 +0000 2017
+Tweet content: Whats going on with everyone out there?
+------------------------
+Created on: Tue Aug 22 02:39:52 +0000 2017
+Tweet content: Weather is nice today. Breezy!
+------------------------
+Created on: Tue Aug 22 01:44:36 +0000 2017
+Tweet content: Khalid-Saved is playing right now.. One of my top 3 tracks of his
+------------------------
+Created on: Tue Aug 22 01:43:22 +0000 2017
+Tweet content: How about last nights GOT episode. OMG and its not even the finale yet. Much more in store!
+------------------------
+Created on: Tue Aug 22 01:42:45 +0000 2017
+Tweet content: Kaskade is the Man! Always and is and Always will be my favorite EDM DJ!! #respect
+------------------------
+Created on: Tue Aug 22 01:40:30 +0000 2017
+Tweet content: What a great weekend! A Birthday, Wedding and another birthday all in a day and a half #pooped
+------------------------
+Created on: Tue Aug 22 01:39:44 +0000 2017
+Tweet content: Feeling hungry right now, What to eat??!?
+------------------------
+Created on: Tue Aug 22 01:39:10 +0000 2017
+Tweet content: Listening to Khalid right now. Great Artist , chill music!
+------------------------
+Created on: Tue Aug 22 01:38:42 +0000 2017
+Tweet content: Solar Eclipse photo 2017 https://t.co/Mp3xmkS1Ul
+------------------------
+Created on: Tue Aug 22 01:36:56 +0000 2017
+Tweet content: Solar eclipse was real today! Wowsers!
+------------------------
+Created on: Thu Aug 17 23:12:22 +0000 2017
+Tweet content: Spread the love!!
+------------------------
+Created on: Thu Aug 17 23:10:42 +0000 2017
+Tweet content: Hello World!
+------------------------
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Tue Aug 22 02:44:06 +0000 2017
+Tweet content: Alright thats it for tonight. see you all next time!
+------------------------
+Created on: Tue Aug 22 02:43:49 +0000 2017
+Tweet content: My kids are going nuts inside right now....hahaha
+------------------------
+Created on: Tue Aug 22 02:43:37 +0000 2017
+Tweet content: Still thinking of what to eat. Its about that time
+------------------------
+Created on: Tue Aug 22 02:43:18 +0000 2017
+Tweet content: What should I listen to next?
+------------------------
+Created on: Tue Aug 22 02:41:55 +0000 2017
+Tweet content: Cant wait for the Mayweather -MacGregor Fight this weekend. Lets see if it will be a bust or a show
+------------------------
+Created on: Tue Aug 22 02:41:27 +0000 2017
+Tweet content: Feeling good !
+------------------------
+Created on: Tue Aug 22 02:40:54 +0000 2017
+Tweet content: Missed my episode of Ballers yesterday. Time to catch up tonight. NO spoilers please
+------------------------
+Created on: Tue Aug 22 02:40:22 +0000 2017
+Tweet content: Labor Day weekend is coming up. Any plans?!
+------------------------
+Created on: Tue Aug 22 02:40:08 +0000 2017
+Tweet content: Whats going on with everyone out there?
+------------------------
+Created on: Tue Aug 22 02:39:52 +0000 2017
+Tweet content: Weather is nice today. Breezy!
+------------------------
+Created on: Tue Aug 22 01:44:36 +0000 2017
+Tweet content: Khalid-Saved is playing right now.. One of my top 3 tracks of his
+------------------------
+Created on: Tue Aug 22 01:43:22 +0000 2017
+Tweet content: How about last nights GOT episode. OMG and its not even the finale yet. Much more in store!
+------------------------
+Created on: Tue Aug 22 01:42:45 +0000 2017
+Tweet content: Kaskade is the Man! Always and is and Always will be my favorite EDM DJ!! #respect
+------------------------
+Created on: Tue Aug 22 01:40:30 +0000 2017
+Tweet content: What a great weekend! A Birthday, Wedding and another birthday all in a day and a half #pooped
+------------------------
+Created on: Tue Aug 22 01:39:44 +0000 2017
+Tweet content: Feeling hungry right now, What to eat??!?
+------------------------
+Created on: Tue Aug 22 01:39:10 +0000 2017
+Tweet content: Listening to Khalid right now. Great Artist , chill music!
+------------------------
+Created on: Tue Aug 22 01:38:42 +0000 2017
+Tweet content: Solar Eclipse photo 2017 https://t.co/Mp3xmkS1Ul
+------------------------
+Created on: Tue Aug 22 01:36:56 +0000 2017
+Tweet content: Solar eclipse was real today! Wowsers!
+------------------------
+Created on: Thu Aug 17 23:12:22 +0000 2017
+Tweet content: Spread the love!!
+------------------------
+Created on: Thu Aug 17 23:10:42 +0000 2017
+Tweet content: Hello World!
+------------------------
+
