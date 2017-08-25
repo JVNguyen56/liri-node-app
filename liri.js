@@ -120,7 +120,7 @@ function spotifyThis(){
 	var spotifyPara = {
 		type: 'track', 
 		query: getSpotify, 
-		limit: 2
+		limit: 1
 	};
 
    	// callback
